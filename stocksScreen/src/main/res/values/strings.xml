@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="stocks">Stocks</string>
+    <string name="errorMessage">Something went wrong, please try again</string>
+    <string name="networkErrorMessage">Please check your internet connection and try again</string>
+</resources>
